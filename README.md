@@ -56,9 +56,14 @@ Requirements
 
 1. Navigate to the 'MoodMusicApp' Zip file and open
    
-2. In the folder, Open the project (mood_music.py) in IDLE or any Python IDE. (make sure the .py file is in the folder along with the three audio files, happy.wav, sad.wav, calm.wav)
+3. Ensure mood_music.py and audio files happy.wav, sad.wav, calm.wav are in there
+   
+4. Run the project (mood_music.py) in IDLE or any Python IDE by simply opening it
 
-4. Once the .py file is opened, click Run at top left corner (on mac) > Run Module or F5
+5. Once the mood_music.py file is opened, click Run at top left corner (on mac) > Run Module or F5
+
+Note: Please unzip the entire "MoodMusicApp" folder before running mood_music.py.
+The program depends on the "audio" folder being in the same directory to access the sound.
 
 Usage
 
